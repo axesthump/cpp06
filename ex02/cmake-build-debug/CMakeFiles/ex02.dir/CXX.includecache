@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/casubmar/CLionProjects/cpp06/ex02/A.hpp
+Base.hpp
+/home/casubmar/CLionProjects/cpp06/ex02/Base.hpp
+
+/home/casubmar/CLionProjects/cpp06/ex02/B.hpp
+Base.hpp
+/home/casubmar/CLionProjects/cpp06/ex02/Base.hpp
+
+/home/casubmar/CLionProjects/cpp06/ex02/Base.hpp
+
+/home/casubmar/CLionProjects/cpp06/ex02/C.hpp
+Base.hpp
+/home/casubmar/CLionProjects/cpp06/ex02/Base.hpp
+
+/home/casubmar/CLionProjects/cpp06/ex02/main.cpp
+iostream
+-
+A.hpp
+/home/casubmar/CLionProjects/cpp06/ex02/A.hpp
+B.hpp
+/home/casubmar/CLionProjects/cpp06/ex02/B.hpp
+C.hpp
+/home/casubmar/CLionProjects/cpp06/ex02/C.hpp
+cstdlib
+-
+time.h
+-
+typeinfo
+-
+
